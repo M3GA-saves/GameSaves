@@ -1,0 +1,13 @@
+{
+	version: 1
+	uuid: "d09ae8129e674b0c830f66aead7f1310"
+	name: "zoe_lolz"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}

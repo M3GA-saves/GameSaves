@@ -1,0 +1,13 @@
+{
+	version: 1
+	uuid: "2df486a01925465192ba3c0951b8e562"
+	name: "DCrazyDog"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}

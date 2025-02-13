@@ -1,0 +1,13 @@
+{
+	version: 1
+	uuid: "33d562cf7f9a49e09e7db47c65aa8969"
+	name: "Tripherian"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}

@@ -1,0 +1,13 @@
+{
+	version: 1
+	uuid: "964452c7cf274eb69a44713ae1cd5011"
+	name: "_ZuZus_"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}
