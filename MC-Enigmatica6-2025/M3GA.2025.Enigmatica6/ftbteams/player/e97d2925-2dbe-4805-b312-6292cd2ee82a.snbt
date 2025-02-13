@@ -1,0 +1,18 @@
+{
+	id: "e97d2925-2dbe-4805-b312-6292cd2ee82a"
+	type: "player"
+	player_name: "wjllem"
+	ranks: { }
+	properties: {
+		"ftbchunks:allow_explosions": 0b
+		"ftbteams:display_name": "wjllem"
+		"ftbteams:color": "#FFA759"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [ ]
+	extra: { }
+}

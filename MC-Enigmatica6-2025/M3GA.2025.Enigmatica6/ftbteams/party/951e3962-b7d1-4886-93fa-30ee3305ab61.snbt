@@ -1,0 +1,41 @@
+{
+	id: "951e3962-b7d1-4886-93fa-30ee3305ab61"
+	type: "party"
+	owner: "d464c4a6-9e72-4c90-a86a-e632a65197b2"
+	ranks: {
+		964452c7-cf27-4eb6-9a44-713ae1cd5011: "member"
+		33d562cf-7f9a-49e0-9e7d-b47c65aa8969: "member"
+		e97d2925-2dbe-4805-b312-6292cd2ee82a: "member"
+		2df486a0-1925-4651-92ba-3c0951b8e562: "member"
+		4a49ae03-a7fa-40a2-a65d-5803610db04b: "member"
+		d464c4a6-9e72-4c90-a86a-e632a65197b2: "owner"
+		d09ae812-9e67-4b0c-830f-66aead7f1310: "member"
+	}
+	properties: {
+		"ftbchunks:allow_explosions": 0b
+		"ftbteams:display_name": "M3GA"
+		"ftbteams:color": "#FF59BF"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 1b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1738277149453L, text: "{\"color\":\"yellow\",\"extra\":[{\"text\":\"Slayer00991\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+		{ from: "d464c4a6-9e72-4c90-a86a-e632a65197b2", date: 1738277185120L, text: "{\"color\":\"green\",\"text\":\"Invited wjllem\"}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1738277189313L, text: "{\"color\":\"green\",\"extra\":[{\"text\":\"wjllem\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+		{ from: "d464c4a6-9e72-4c90-a86a-e632a65197b2", date: 1738277508524L, text: "{\"color\":\"green\",\"text\":\"Invited Ookami13\"}" }
+		{ from: "d464c4a6-9e72-4c90-a86a-e632a65197b2", date: 1738277554606L, text: "{\"color\":\"green\",\"text\":\"Invited Ookami13\"}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1738277601905L, text: "{\"color\":\"green\",\"extra\":[{\"text\":\"Ookami13\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+		{ from: "d464c4a6-9e72-4c90-a86a-e632a65197b2", date: 1738286372035L, text: "{\"color\":\"green\",\"text\":\"Invited Tripherian\"}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1738286463990L, text: "{\"color\":\"green\",\"extra\":[{\"text\":\"Tripherian\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+		{ from: "d464c4a6-9e72-4c90-a86a-e632a65197b2", date: 1738380282109L, text: "{\"color\":\"green\",\"text\":\"Invited _ZuZus_\"}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1738380286465L, text: "{\"color\":\"green\",\"extra\":[{\"text\":\"_ZuZus_\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+		{ from: "d464c4a6-9e72-4c90-a86a-e632a65197b2", date: 1738380949969L, text: "{\"color\":\"green\",\"text\":\"Invited zoe_lolz\"}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1738380955442L, text: "{\"color\":\"green\",\"extra\":[{\"text\":\"zoe_lolz\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+		{ from: "d464c4a6-9e72-4c90-a86a-e632a65197b2", date: 1738911821395L, text: "{\"color\":\"green\",\"text\":\"Invited DCrazyDog\"}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1738911843948L, text: "{\"color\":\"green\",\"extra\":[{\"text\":\"DCrazyDog\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+	]
+	extra: { }
+}

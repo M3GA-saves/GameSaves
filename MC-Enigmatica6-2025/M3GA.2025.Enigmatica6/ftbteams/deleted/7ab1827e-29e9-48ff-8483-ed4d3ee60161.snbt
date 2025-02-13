@@ -1,0 +1,24 @@
+{
+	id: "7ab1827e-29e9-48ff-8483-ed4d3ee60161"
+	type: "party"
+	owner: "4a49ae03-a7fa-40a2-a65d-5803610db04b"
+	ranks: { }
+	properties: {
+		"ftbchunks:allow_explosions": 0b
+		"ftbteams:display_name": "Ookami13's Party"
+		"ftbteams:color": "#FF59E3"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1737914519806L, text: "{\"color\":\"yellow\",\"extra\":[{\"text\":\"Ookami13\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+		{ from: "4a49ae03-a7fa-40a2-a65d-5803610db04b", date: 1737914519816L, text: "{\"color\":\"green\",\"text\":\"Invited Slayer00991\"}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1737914526028L, text: "{\"color\":\"green\",\"extra\":[{\"text\":\"Slayer00991\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1738277113859L, text: "{\"color\":\"yellow\",\"extra\":[{\"text\":\"Slayer00991\"},{\"text\":\" left your party!\"}],\"text\":\"\"}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1738277596741L, text: "{\"color\":\"yellow\",\"extra\":[{\"text\":\"Ookami13\"},{\"text\":\" left your party!\"}],\"text\":\"\"}" }
+	]
+	extra: { }
+}

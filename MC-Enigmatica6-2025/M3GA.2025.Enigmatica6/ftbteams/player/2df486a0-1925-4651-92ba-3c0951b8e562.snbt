@@ -1,0 +1,18 @@
+{
+	id: "2df486a0-1925-4651-92ba-3c0951b8e562"
+	type: "player"
+	player_name: "DCrazyDog"
+	ranks: { }
+	properties: {
+		"ftbchunks:allow_explosions": 0b
+		"ftbteams:display_name": "DCrazyDog"
+		"ftbteams:color": "#FFC659"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [ ]
+	extra: { }
+}

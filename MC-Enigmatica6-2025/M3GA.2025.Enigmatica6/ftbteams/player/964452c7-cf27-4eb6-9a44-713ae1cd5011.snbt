@@ -1,0 +1,18 @@
+{
+	id: "964452c7-cf27-4eb6-9a44-713ae1cd5011"
+	type: "player"
+	player_name: "_ZuZus_"
+	ranks: { }
+	properties: {
+		"ftbchunks:allow_explosions": 0b
+		"ftbteams:display_name": "_ZuZus_"
+		"ftbteams:color": "#59FF61"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [ ]
+	extra: { }
+}
